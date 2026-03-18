@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Reem Yasser (@)</h1>
+<h1>Hi 👋, I'm Reem Yasser (@rimyabdelghfar)</h1>
 <p>Welcome My Guest to my GitHub profile! I Have a passion for AI, Embedded Systems, IoT, and full-stack development.
 I believe in the power of open source and contruibute to the open source community. </p>
 
@@ -83,31 +83,30 @@ Detect fabric defects using YOLOv8 on Raspberry Pi 4 in real-time.
 
 <h2>⚡️ Where to Find Me</h2>
 <p>
-  <a target="_blank" href="https://github.com/Ahmed1893"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="github" /></a>
+  <a target="_blank" href="https://github.com/rimyabdelghfar"><img src="https://img.shields.io/badge/github-logo?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="github" /></a>
 </p>
 
 ---
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed1893&show_icons=true&theme=radical" alt="Ahmed1893 stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rimyabdelghfar&show_icons=true&theme=radical" alt="rimyabdelghfar stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed1893&theme=radical" alt="Ahmed1893 streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimyabdelghfar&theme=radical" alt="rimyabdelghfar streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed1893&show_icons=true&layout=compact&theme=radical" alt="Ahmed1893 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimyabdelghfar&show_icons=true&layout=compact&theme=radical" alt="rimyabdelghfar top languages" />
 </p>
 
 <h2>🏆 GitHub Trophy</h2>
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed1893&theme=radical" alt="Ahmed1893" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimyabdelghfar&theme=radical" alt="rimyabdelghfar" /></a>
 </p>
 
 <h2>✨ Fun Animated Badges</h2>
 <p>
-  <img src="https://img.shields.io/badge/Embedded-IoT-green?style=for-the-badge&logo=raspberry-pi" alt="IoT Badge" />
-  <img src="https://img.shields.io/badge/ESP32-ESP8266-blue?style=for-the-badge&logo=esp32" alt="ESP Badge" />
+ 
   <img src="https://img.shields.io/badge/Full%20Stack-Python-red?style=for-the-badge&logo=python&logoColor=white" alt="FullStack Badge" />
-  <img src="https://img.shields.io/badge/PCB-Design-orange?style=for-the-badge&logo=circuit" alt="PCB Badge" />
+  
 </p>
